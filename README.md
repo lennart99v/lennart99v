@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Blueprint for psychologist website</b>
-  - [Practice Website](https://github.com/lennart99v/praktijk-website)
+  - [Blueprint practice Website](https://github.com/lennart99v/praktijk-website)
 - <b>Cinema website group project (Vue, PHP, Slim, MySQL, docker, predis, etc.)</b>
   - [Cinebel website](https://github.com/cinema-eindwerk/Cinebel) <b><i>(...)</b></i>
 - <b>Styling exercise (HTML, CSS and a little javascript)</b>
