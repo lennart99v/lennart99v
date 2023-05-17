@@ -6,6 +6,8 @@
   - [Practice Website](https://github.com/lennart99v/praktijk-website)
 - <b>Cinema website group project (Vue, PHP, Slim, MySQL, docker, predis, etc.)</b>
   - [Cinebel website](https://github.com/cinema-eindwerk/Cinebel) <b><i>(...)</b></i>
+- <b>Styling exercise (HTML, CSS and a little javascript)</b>
+  - [sixteen exercise](https://github.com/syntra-mvl-vdofs2122/sixteen---css-exercise-lennart99v) <b><i>(...)</b></i>
 
 
 <h2> 🤳 Connect with me:</h2>
