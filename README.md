@@ -5,7 +5,7 @@
 - <b>Blueprint for psychologist website</b>
   - [Practice Website](https://github.com/lennart99v/praktijk-website)
 - <b>Cinema website group project (Vue, PHP, Slim, MySQL, docker, predis, etc.)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Cinebel website](https://github.com/cinema-eindwerk/Cinebel) <b><i>(...)</b></i>
 
 
 <h2> 🤳 Connect with me:</h2>
