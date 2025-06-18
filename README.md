@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lennart! <br/><a href="https://www.linkedin.com/in/lennart-verschelden-801a0b224">Fullstack developer</a></h1><a href="https://github.com/lennart99v">(Github)</a>
+<h1>Hi, I'm Lennart! <br/><a href="https://www.linkedin.com/in/lennart-verschelden-801a0b224">Junior fullstack developer</a></h1><a href="https://github.com/lennart99v">(Github)</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
