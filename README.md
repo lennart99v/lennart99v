@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>simple psychologist website</b>
-  - [Blueprint practice Website](https://github.com/lennart99v/praktijk-website)
+  - [psychologist website](https://github.com/lennart99v/praktijk-website)
 - <b>Dynamic code editor for CK3 modding. (js, css, html, node.js, python, electron)</b>
   - [CK3 Modding IDE](https://github.com/lennart99v/ck3-mod-ide) <b><i>(...)</b></i>
 - <b>Planning app - WIP (react, tailwind)</b>
