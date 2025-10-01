@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Blueprint for psychologist website</b>
+- <b>simple psychologist website</b>
   - [Blueprint practice Website](https://github.com/lennart99v/praktijk-website)
-- <b>Cinema website group project (Vue, PHP, Slim, MySQL, docker, predis, etc.)</b>
-  - [Cinebel website](https://github.com/cinema-eindwerk/Cinebel) <b><i>(...)</b></i>
-- <b>Styling exercise (HTML, CSS and a little javascript)</b>
-  - [sixteen exercise](https://github.com/syntra-mvl-vdofs2122/sixteen---css-exercise-lennart99v) <b><i>(...)</b></i>
+- <b>Dynamic code editor for CK3 modding. (js, css, html, node.js, python, electron)</b>
+  - [CK3 Modding IDE](https://github.com/lennart99v/ck3-mod-ide) <b><i>(...)</b></i>
+- <b>Planning app - WIP (react, tailwind)</b>
+  - [DoDo Planner](https://github.com/lennart99v/Dodo-Planner) <b><i>(...)</b></i>
 
 
 <h2> 🤳 Connect with me:</h2>
