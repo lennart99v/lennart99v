@@ -4,7 +4,7 @@
 
 - <b>simple psychologist website</b>
   - [psychologist website](https://github.com/lennart99v/praktijk-website)
-- <b>Dynamic code editor for CK3 modding. (js, css, html, node.js, python, electron)</b>
+- <b>Dynamic code editor for CK3 modding - WIP (js, css, html, node.js, python, electron)</b>
   - [CK3 Modding IDE](https://github.com/lennart99v/ck3-mod-ide) <b><i>(...)</b></i>
 - <b>Planning app - WIP (react, tailwind)</b>
   - [DoDo Planner](https://github.com/lennart99v/Dodo-Planner) <b><i>(...)</b></i>
